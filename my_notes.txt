@@ -1,0 +1,1 @@
+My personal goal for the next month is to master the fundamentals of RAG pipelines. I also want to build at least three small AI agent projects and push them to my GitHub to build my portfolio. On weekends, I plan to read one new AI research paper.
